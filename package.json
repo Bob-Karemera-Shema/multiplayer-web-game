@@ -5,9 +5,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bob-Karemera-Shema/multiplayer-web-game.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/Bob-Karemera-Shema/multiplayer-web-game/issues"
+  },
+  "homepage": "https://github.com/Bob-Karemera-Shema/multiplayer-web-game#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
 }
